@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>RocketMQConsumer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="RocketMQConsumer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="100" height="100"></rect>
+        <g id="Group" transform="translate(21.000000, 19.000000)" fill-rule="nonzero">
+            <circle id="Oval" stroke="#56BFDA" stroke-width="3" cx="26.7076923" cy="25.8461538" r="16.3692308"></circle>
+            <circle id="Oval" fill="#56BFDA" cx="8.61538462" cy="5.16923077" r="4.30769231"></circle>
+            <circle id="Oval-Copy-2" fill="#56BFDA" cx="25.8461538" cy="25.8461538" r="2.58461538"></circle>
+            <circle id="Oval-Copy-3" fill="#56BFDA" cx="34.4615385" cy="25.8461538" r="2.58461538"></circle>
+            <circle id="Oval-Copy-4" fill="#56BFDA" cx="17.2307692" cy="25.8461538" r="2.58461538"></circle>
+            <circle id="Oval" fill="#56BFDA" cx="5.16923077" cy="44.8" r="5.16923077"></circle>
+            <circle id="Oval-Copy" fill="#56BFDA" cx="48.2461538" cy="52.5538462" r="7.75384615"></circle>
+            <circle id="Oval" fill="#56BFDA" cx="46.5230769" cy="5.16923077" r="5.16923077"></circle>
+            <path d="M9.90769231,7.32307692 L15.0769231,13.3538462" id="Line-2" stroke="#56BFDA" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M6.03076923,43.9384615 L12.9230769,37.0461538" id="Line-2-Copy" stroke="#56BFDA" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M39.9076923,11.7846154 L46.8,4.89230769" id="Line-2-Copy-2" stroke="#56BFDA" stroke-width="4" stroke-linecap="square"></path>
+            <path d="M37.9076923,38.7692308 L47.3846154,49.9692308" id="Line-2-Copy-3" stroke="#56BFDA" stroke-width="4" stroke-linecap="square"></path>
+        </g>
+        <rect id="Rectangle-2" stroke="#3D6380" stroke-width="2" fill-rule="nonzero" x="14" y="15" width="70" height="69"></rect>
+        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(79.066017, 79.355339) rotate(135.000000) translate(-79.066017, -79.355339) " points="79.0660172 54.3553391 129.066017 104.355339 29.0660172 104.355339"></polygon>
+        <path id="Line" d="M90.6896552,92.7241379 L86.1034483,77.7586207 L75.9655172,87.4137931 L90.6896552,92.7241379 Z M69.2758621,71.6896552 L81.0260387,84.0273406 L81.7156938,84.7514785 L83.1639697,83.3721682 L82.4743145,82.6480303 L70.7241379,70.3103448 L70.0344828,69.5862069 L68.5862069,70.9655172 L69.2758621,71.6896552 Z" fill="#3D6380" fill-rule="nonzero"></path>
+    </g>
+</svg>
